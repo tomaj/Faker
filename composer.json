@@ -1,7 +1,7 @@
 {
-    "name": "fzaninotto/faker",
+    "name": "tomaj/faker",
     "type": "library",
-    "description": "Faker is a PHP library that generates fake data for you.",
+    "description": "Fork of php Faker PHP library with custom Data provider.",
     "keywords": ["faker", "fixtures", "data"],
     "license": "MIT",
     "authors": [
